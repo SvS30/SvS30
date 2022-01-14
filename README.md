@@ -1,6 +1,6 @@
 <center><h2>Hola, Soy Salim 👋!!</h2></center>
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://own-blog-react.herokuapp.com/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salimvzqz.herokuapp.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salimvzqz)
 
 
