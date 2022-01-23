@@ -4,7 +4,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salimvzqz)
 
 
-Soy desarrollador con mayor interés en el **Back end**, estoy interesado en crear todo tipo de tecnología de vanguardia que ayude a resolver problemas que se presentan en nuestro día a día, actualmente estoy culminando la *ingeniería en desarrollo de Software*.
+Soy **desarrollador de software** con mayor interés y destreza en el **Backend**.
+Estoy interesado en crear todo tipo de tecnología de vanguardia que ayude a resolver problemas que se presentan en nuestro día a día, actualmente estoy culminando la ingeniería en Desarrollo de Software y estoy en total disponibilidad de aprender y tener nuevos retos.
 
 ---
 
