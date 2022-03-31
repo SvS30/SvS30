@@ -1,39 +1,40 @@
-<center><h2>Hola, Soy Salim 👋!!</h2></center>
+<h1 align="center">Hi 👋, soy Salim Vazquez Solis
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salimvzqz.herokuapp.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salimvzqz)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salimvzqz)</h1>
 
-
-Soy **desarrollador de software** con mayor interés y destreza en el **Backend**.
-Estoy interesado en crear todo tipo de tecnología de vanguardia que ayude a resolver problemas que se presentan en nuestro día a día, actualmente estoy culminando la ingeniería en Desarrollo de Software y estoy en total disponibilidad de aprender y tener nuevos retos.
+<p align="center">Soy desarrollador de software con mayor interés y destreza en el <strong>Backend</strong>. Estoy interesado en crear todo tipo de tecnología de vanguardia que ayude a resolver problemas que se presentan en nuestro día a día, y estoy en total disponibilidad de aprender y tener nuevos retos.</p>
 
 ---
 
-###  ⚡️Tecnologías
+<h3 align="center">⚡️Tecnologías<br></br>
 
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Mysql Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Psql Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mysql Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)</h3>
 
+<table align="center">
+ <tr>
+    <td align="center"><b style="font-size:30px">⚙️ Herramientas</b></td>
+    <td align="center"><b style="font-size:30px">📬 Contacto</b></td>
+ </tr>
+ <tr>
+    <td>
 
-###  ⚙️ Herramientas
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-
-### 📬 Contacto
-
+   </td>
+   <td>
+     
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimvzqz@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/salim_vazquez)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-vazquez-solis-6565b7170/)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=SvS30&show_icons=true&count_private=true" width="500" height="auto"/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-vazquez-solis)
+   </td>
+  </tr>
+</table>
