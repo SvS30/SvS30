@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, soy Salim Vazquez Solis
+<h1 align="center">Hola 👋, soy Salim Vazquez Solis
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salimvzqz.herokuapp.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salimvzqz)</h1>
