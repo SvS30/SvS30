@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Salim Vazquez Solis
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salimvzqz.herokuapp.com/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salimv.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salimvzqz)</h1>
 
 <p align="center">Soy desarrollador de software con mayor interés y destreza en el <strong>Backend</strong>. Estoy interesado en crear todo tipo de tecnología de vanguardia que ayude a resolver problemas que se presentan en nuestro día a día, y estoy en total disponibilidad de aprender y tener nuevos retos.</p>
